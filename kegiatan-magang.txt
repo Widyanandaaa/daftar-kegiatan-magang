@@ -20,3 +20,6 @@ Maret
 
 April
 -GITFLOW
+
+Jangan lupa bikin laporan magang!!
+
