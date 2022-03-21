@@ -1,8 +1,15 @@
 Agenda minggu ini :
--Magang
--Magang
--Magang
--Magang
--Magang
--Futsal
--Rest Day
+-Senin
+ *Magang
+-Selasa
+ *Magang
+-Rabu
+ *Magang
+-Kamis
+ *Magang
+-Jum'at
+ *Magang
+-Sabtu
+ *Futsal
+-Minggu
+ *Rest Day
