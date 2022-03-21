@@ -1,21 +1,21 @@
 Januari
--html dasar
--css dasar
--css Bootstrap
--Javascript dasar
--Javascript DOM
--Javascript lanjutan
+-html dasar (selesai)
+-css dasar (selesai)
+-css Bootstrap (selesai)
+-Javascript dasar (selesai)
+-Javascript DOM (selesai)
+-Javascript lanjutan (selesai)
 
 Februari
--Wordpress
--php dasar
--oopphp
--php mvc
+-Wordpress (selesai)
+-php dasar (selesai)
+-oopphp (selesai)
+-php mvc (selesai)
 
 Maret
--Laravel dasar
--Laravel lanjutan
--Laravel Ajax
+-Laravel dasar (selesai)
+-Laravel lanjutan (selesai)
+-Laravel Ajax (selesai)
 -GIT & GITHUB
 
 April
