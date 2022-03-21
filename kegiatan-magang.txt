@@ -1,0 +1,22 @@
+Januari
+-html dasar
+-css dasar
+-css Bootstrap
+-Javascript dasar
+-Javascript DOM
+-Javascript lanjutan
+
+Februari
+-Wordpress
+-php dasar
+-oopphp
+-php mvc
+
+Maret
+-Laravel dasar
+-Laravel lanjutan
+-Laravel Ajax
+-GIT & GITHUB
+
+April
+-GITFLOW
